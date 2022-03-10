@@ -4,3 +4,10 @@ footer {
   background-color: grey;
   color: white;
 }
+
+p{
+  border-style: solid;
+  border-color: grey;
+  font-size: 20px;
+  font-family: sans-serif;
+}
